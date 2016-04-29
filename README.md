@@ -1,2 +1,4 @@
 # Hello-World
-just another repository
+
+Hi Humans!
+This is Cassie. I like CSS,HTML5,JS!That's why I'm here!
